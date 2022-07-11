@@ -5,7 +5,7 @@
 ```
 yarn add i18next or npm install i18next
 ```
-###目录结构
+### 目录结构
 ```
 ├── index.html                    // 静态页面
 ├── node_modules              // i18next包，后面可以删除，只留下i18next.min.js
@@ -19,7 +19,7 @@ yarn add i18next or npm install i18next
 │   └── index.js			// js国际化相关逻辑
 └── yarn.lock
 ```
-###文件主要内容
+### 文件主要内容
 `index.html`
 
 ```
